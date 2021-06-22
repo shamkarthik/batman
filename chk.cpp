@@ -14,6 +14,7 @@ int main()
 	int large_rooms{0};
 	cout << "Number of large rooms needed to clean: ";
 	cin >> large_rooms;
+	cin >> large_rooms;
 	
 	const double cost_per_small_room{25};
 	const double cost_per_large_room{35};
